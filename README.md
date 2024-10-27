@@ -1,1 +1,5 @@
-# Pergunta-Interativa-Bosch
+# Pergunta Interativa Bosch
+Pergunta interativa codificada em html exclusivamente para o processo seletivo da empresa Bosch.
+
+Código em html:
+
